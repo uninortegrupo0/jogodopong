@@ -3,7 +3,7 @@ export const enemy = {
   y: 200 - 30,
   width: 10,
   height: 60,
-  speed: 3,
+  speed: 2.5,
   score: 0,
   color: "white",
 

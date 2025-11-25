@@ -2,8 +2,8 @@ export const ball = {
   x: 300,
   y: 200,
   radius: 5,
-  speedX: 5,
-  speedY: 5,
+  speedX: 6,
+  speedY: 6,
   color: "white",
 
   draw(ctx) {
